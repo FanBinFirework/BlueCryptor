@@ -17,7 +17,7 @@
 
 import XCTest
 import Foundation
-@testable import Cryptor
+@testable import CryptorKit
 
 #if os(macOS) || os(iOS) || os(tvOS) || os(watchOS)
 	import CommonCrypto
